@@ -4,6 +4,15 @@ Created on Mon Feb 12 13:53:03 2024
 
 @author: 44759
 """
+"""
+Steps:
+  1. Load Lambda significance data from Excel (Lambda_Significance_data.xlsx)
+  2. Select data slice ranges using a,b,c,d indices
+  3. Fit a 2nd-order polynomial with scipy.optimize.curve_fit
+  4. Determine and mark both the fixed reference cut (1.4 cm) 
+     and the optimal cut from the fit
+  5. Plot significance with error bars and fraction of signal remaining
+"""
 
 import pandas as pd
 import numpy as np
@@ -87,3 +96,4 @@ plt.show()
 print("Best Fit Coefficients:", a_fit, b_fit, c_fit)
 
 print("Max sig cut:", max_cut_value)
+
