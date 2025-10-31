@@ -25,12 +25,13 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 
 Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the 98 % signal-retention pipeline to reduce noise.
 
-### Signal-Retention Efficiency
+## Reconstruction Efficiencies
+
 <p align="center">
-  <img src="plots/Mass_Plots/fitted_plot_K0_vlines.png" alt="K0 Invariant Mass" width="45%">
-  <img src="plots/Mass_Plots/fitted_plot_Lambda_vlines.png" alt="Lambda Invariant Mass" width="45%"><br>
-  <em>Left: K⁰<sub>S</sub> efficiencies.  
-  Right: Λ efficiencies.</em>
+  <img src="plots/Corrected_Spectra/K0_eff_10bins#1.png" alt="K0 Efficiency" width="45%">
+  <img src="plots/Corrected_Spectra/Lambda_efficiency_10bins#1.png" alt="Lambda Efficiency" width="45%"><br>
+  <em>Left: K⁰<sub>S</sub> reconstruction efficiency as a function of transverse momentum (p<sub>T</sub>).  
+  Right: Λ reconstruction efficiency showing similar p<sub>T</sub> dependence with baryonic track effects.</em>
 </p>
 
 Optimised cuts achieve high signal retention with minimal background.
