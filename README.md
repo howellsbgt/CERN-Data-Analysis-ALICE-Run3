@@ -6,6 +6,12 @@ This repository contains the code and report from my final-year Master's project
 Originally developed between Sept 2023–May 2024 as part of my master’s thesis at CERN (ALICE experiment).  
 Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 
+The goal was to:
+Reconstruct neutral V⁰ particles from their charged decay products.
+Apply optimised selection cuts to maximise signal purity.
+Calculate detector reconstruction efficiencies using Monte Carlo simulations.
+Correct the measured spectra and compute the Λ/K⁰<sub>S</sub> baryon-to-meson ratio.
+
 **Key achievements**
 - Developed ~90 % signal-retention V0 selection pipeline
 - Statistical significance improved via Monte-Carlo fits
