@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 17 11:27:03 2024
+
+@author: 44759
+"""
 """
 Script to batch apply cut values to V0s for further processing.
 --- (requires being in the alienv environment before running) ---
