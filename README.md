@@ -8,4 +8,4 @@ This repository contains the code and report from my final-year Master's project
 - Real-time decision rate: 10 Hz
 - Statistical significance improved via Monte-Carlo fits
 
-📄 [Read the full report (PDF)](report.pdf)
+📄 [Read the full report (PDF)](Y4 Final Report - Barnaby Howells.pdf)
