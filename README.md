@@ -37,7 +37,53 @@ Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the data clea
 Optimised cuts achieve high signal retention with minimal background.
 
 ## Data Analysis
+1. Event Reconstruction
 
+Identify V⁰ candidates (neutral particles decaying into charged daughters).
+
+K⁰<sub>S</sub> → π⁺π⁻
+
+Λ → pπ⁻
+
+Implement selection cuts to remove combinatorial background:
+
+DCA (daughter → PV and between daughters)
+
+Decay radius
+
+Cosine of pointing angle
+
+2. Cut Optimisation
+
+Compute significance:
+
+𝑆
+/
+𝑆
++
+𝐵
+S/
+S+B
+	​
+
+
+Scan each cut parameter to find the maximum significance.
+
+Retain ≥ 90 % signal and ensure data/MC agreement ≤ 2 %.
+
+Result: ~98 % signal retention, background reduced by ~65 %.
+
+3. Monte Carlo Efficiencies
+
+Generate simulated pp collisions using ALICE MC framework.
+
+Process events through detector geometry + reconstruction chain.
+
+Compute efficiency = (reconstructed / generated) as function of pₜ.
+
+4. Spectrum Correction & Ratio
+
+Divide raw yields by efficiencies → corrected pₜ spectra.
 ### Significance Plot Example: Distance of Closest Approach (K⁰<sub>S</sub>)
 
 <p align="center">
