@@ -5,13 +5,6 @@ Created on Mon Feb 12 13:53:03 2024
 @author: 44759
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 17 11:27:03 2024
-
-@author: 44759
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -92,4 +85,5 @@ plt.show()
 
 # Print the best fit coefficients
 print("Best Fit Coefficients:", a_fit, b_fit, c_fit)
+
 print("Max sig cut:", max_cut_value)
