@@ -14,27 +14,6 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 
 ## Key Results
 
-## Invariant Mass Distributions
-
-<p align="center">
-  <img src="plots/Mass_Plots/fitted_plot_K0_vlines.png" alt="K0 Invariant Mass" width="45%">
-  <img src="plots/Mass_Plots/fitted_plot_Lambda_vlines.png" alt="Lambda Invariant Mass" width="45%"><br>
-  <em>Left: K⁰<sub>S</sub> invariant-mass fit showing the π⁺π⁻ peak.  
-  Right: Λ invariant-mass fit showing the pπ⁻ peak from V⁰ reconstruction.</em>
-</p>
-
-Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the data cleaning pipeline to reduce noise.
-
-## Reconstruction Efficiencies
-
-<p align="center"> 
-  <img src="plots/Corrected_Spectra/K0_eff_10bins.png" alt="K0 Efficiency" width="45%">
-  <img src="plots/Corrected_Spectra/Lambda_efficiency_10bins.png" alt="Lambda Efficiency" width="45%"><br>
-  <em>Left: K⁰<sub>S</sub> reconstruction efficiency as a function of transverse momentum (p<sub>T</sub>).  
-  Right: Λ reconstruction efficiency showing similar p<sub>T</sub> dependence with baryonic track effects.</em>
-</p>
-
-Optimised cuts achieve high signal retention with minimal background.
 
 ## Data Analysis
 ### Workflow:
@@ -71,3 +50,25 @@ Divide raw yields by efficiencies → corrected pₜ spectra.
   <em>Left: K⁰<sub>S</sub> invariant-mass distribution before and after selection cuts.  
   Right: Λ invariant-mass distribution showing a similar reduction in background after optimal selection criteria are applied. Final selection cuts acheived ~90% signal retention, compared to <30% of the background</em>
 </p>
+
+## Invariant Mass Distributions
+
+<p align="center">
+  <img src="plots/Mass_Plots/fitted_plot_K0_vlines.png" alt="K0 Invariant Mass" width="45%">
+  <img src="plots/Mass_Plots/fitted_plot_Lambda_vlines.png" alt="Lambda Invariant Mass" width="45%"><br>
+  <em>Left: K⁰<sub>S</sub> invariant-mass fit showing the π⁺π⁻ peak.  
+  Right: Λ invariant-mass fit showing the pπ⁻ peak from V⁰ reconstruction.</em>
+</p>
+
+Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the data cleaning pipeline to reduce noise.
+
+## Reconstruction Efficiencies
+
+<p align="center"> 
+  <img src="plots/Corrected_Spectra/K0_eff_10bins.png" alt="K0 Efficiency" width="45%">
+  <img src="plots/Corrected_Spectra/Lambda_efficiency_10bins.png" alt="Lambda Efficiency" width="45%"><br>
+  <em>Left: K⁰<sub>S</sub> reconstruction efficiency as a function of transverse momentum (p<sub>T</sub>).  
+  Right: Λ reconstruction efficiency showing similar p<sub>T</sub> dependence with baryonic track effects.</em>
+</p>
+
+Optimised cuts achieve high signal retention with minimal background.
