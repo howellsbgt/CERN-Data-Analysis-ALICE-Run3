@@ -22,7 +22,7 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 ## Key Results
 
 Λ/K⁰<sub>S</sub> Ratio
-<p align="center"> <img src="plots/Ratios/Lambda_over_K0.png" width="55%"><br> <em>Run 3 data give a mid-pₜ ratio ≈ 0.3, lower than Run 2 (~0.6), hinting at reconstruction or calibration effects.</em> </p>
+<p align="center"> <img src="plots/Corrected_Spectra/Corrected_Baryon_to_Meson_ratio.png" width="55%"><br> <em>Run 3 data give a mid-pₜ ratio ≈ 0.3, lower than Run 2 (~0.6), hinting at reconstruction or calibration effects.</em> </p>
 
 ## Data Analysis
 ### Workflow:
