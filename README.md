@@ -48,6 +48,12 @@ Compute efficiency = (reconstructed / generated) as function of pₜ.
 4. Spectrum Correction & Ratio
 Divide raw yields by efficiencies → corrected pₜ spectra.
 
+### 📊 Data Files
+Raw significance data used for cut optimization:
+
+- [K⁰s Significance Data (Excel)](data/K0_Significance_data.xlsx)
+- [Λ Significance Data (Excel)](data/Lambda_Significance_data.xlsx)
+
 ### Significance Plot Example: Distance of Closest Approach (K⁰<sub>S</sub>)
 
 <p align="center">
