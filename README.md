@@ -17,7 +17,9 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 - Statistical significance improved via Monte-Carlo fits.
 - Successfully obtained efficiency-corrected particle spectra and ratios.
 
-📄 [Read the full MSci Project Report (PDF)](docs/Final_Report_BarnabyHowells.pdf)
+📄 [Read the full MSci Project Report (PDF)](docs/Final_Report_BarnabyHowells.pdf) 
+📊 [Download Presentation Slides (PDF)](docs/Seminar_Presentation_Slides.pdf)
+
 
 ## Key Results
 
