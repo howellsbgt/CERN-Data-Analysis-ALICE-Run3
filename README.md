@@ -12,7 +12,7 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 - Calculate detector reconstruction efficiencies using Monte Carlo simulations.
 - Correct the measured spectra and compute the Λ/K⁰<sub>S</sub> baryon-to-meson ratio.
 
-## Key achievements
+### Key achievements
 - Developed ~90 % signal-retention V0 selection pipeline.
 - Statistical significance improved via Monte-Carlo fits.
 - Successfully obtained efficiency-corrected particle spectra and ratios.
