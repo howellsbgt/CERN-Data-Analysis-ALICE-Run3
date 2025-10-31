@@ -21,10 +21,10 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 
 ## Key Results
 
-## Λ/K⁰<sub>S</sub> Ratio
+### Λ/K⁰<sub>S</sub> Ratio
 <p align="center"> <img src="plots/Corrected_Spectra/Corrected_Baryon_to_Meson_ratio.png" width="55%"><br> <em>Run 3 data give a mid-pₜ ratio ≈ 0.3, lower than Run 2 (~0.6), hinting at reconstruction or calibration effects.</em> </p>
 
-## Corrected Spectra
+### Corrected Spectra
 <p align="center"> <img src="plots/Corrected_Spectra/Corrected_K0_Linear.png" width="45%"> <img src="plots/Corrected_Spectra/Corrected_Lambda_Linear.png" width="45%"><br> <em>Both yields decrease exponentially with pₜ — Λ spectra (right) showing anomalous low-pₜ growth requiring further study.</em> </p>
 
 ## Data Analysis
@@ -46,7 +46,7 @@ Compute efficiency = (reconstructed / generated) as function of pₜ.
 4. Spectrum Correction & Ratio
 Divide raw yields by efficiencies → corrected pₜ spectra.
 
-## Significance Plot Example: Distance of Closest Approach (K⁰<sub>S</sub>)
+### Significance Plot Example: Distance of Closest Approach (K⁰<sub>S</sub>)
 
 <p align="center">
   <img src="plots/Significance_plots/dcapostopv_K0_significance_plot.png" alt="K0 Significance vs DCA" width="50%"><br>
@@ -54,7 +54,7 @@ Divide raw yields by efficiencies → corrected pₜ spectra.
   The grey dotted line indicates the point at which significance was maximised, whilst retaining 98% of the signal.</em>
 </p>
 
-## Effect of Selection Cuts on Background Reduction
+### Effect of Selection Cuts on Background Reduction
 
 <p align="center">
   <img src="plots/Mass_Plots/K0_IMP_comparison.png" alt="K0 Before and After Cuts" width="40%">
@@ -63,7 +63,7 @@ Divide raw yields by efficiencies → corrected pₜ spectra.
   Right: Λ invariant-mass distribution showing a similar reduction in background after optimal selection criteria are applied. Final selection cuts acheived ~90% signal retention, compared to <30% of the background</em>
 </p>
 
-## Invariant Mass Distributions
+### Invariant Mass Distributions
 
 <p align="center">
   <img src="plots/Mass_Plots/fitted_plot_K0_vlines.png" alt="K0 Invariant Mass" width="40%">
@@ -74,7 +74,7 @@ Divide raw yields by efficiencies → corrected pₜ spectra.
 
 Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the data cleaning pipeline to reduce noise.
 
-## Reconstruction Efficiencies
+### Reconstruction Efficiencies
 
 <p align="center"> 
   <img src="plots/Corrected_Spectra/K0_eff_10bins.png" alt="K0 Efficiency" width="40%">
