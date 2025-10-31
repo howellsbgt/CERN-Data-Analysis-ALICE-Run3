@@ -28,8 +28,8 @@ Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the 98 % sign
 ## Reconstruction Efficiencies
 
 <p align="center"> 
-  <img src="plots/Corrected_Spectra/K0_eff_10bins#1.png" alt="K0 Efficiency" width="45%">
-  <img src="plots/Corrected_Spectra/Lambda_efficiency_10bins#1.png" alt="Lambda Efficiency" width="45%"><br>
+  <img src="plots/Corrected_Spectra/K0_eff_10bins.png" alt="K0 Efficiency" width="45%">
+  <img src="plots/Corrected_Spectra/Lambda_efficiency_10bins.png" alt="Lambda Efficiency" width="45%"><br>
   <em>Left: K⁰<sub>S</sub> reconstruction efficiency as a function of transverse momentum (p<sub>T</sub>).  
   Right: Λ reconstruction efficiency showing similar p<sub>T</sub> dependence with baryonic track effects.</em>
 </p>
