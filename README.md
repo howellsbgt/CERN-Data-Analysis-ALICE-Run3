@@ -23,7 +23,7 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
   Right: Λ invariant-mass fit showing the pπ⁻ peak from V⁰ reconstruction.</em>
 </p>
 
-Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the 98 % signal-retention pipeline to reduce noise.
+Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the data cleaning pipeline to reduce noise while retaining >86% of the signal.
 
 ## Reconstruction Efficiencies
 
@@ -41,6 +41,5 @@ Optimised cuts achieve high signal retention with minimal background.
 <p align="center">
   <img src="plots/Significance_plots/dcapostopv_K0_significance_plot.png" alt="K0 Significance vs DCA" width="60%"><br>
   <em>Significance of K⁰<sub>S</sub> reconstruction as a function of the distance of closest approach (DCA) to the primary vertex.  
-  The curve shows optimal discrimination between true V⁰ decays and background at intermediate DCA values,  
-  balancing vertex resolution against combinatorial contamination.</em>
+  The grey dotted line indicates the point at which significance was maximised, whilst retaining 98% of the signal.</em>
 </p>
