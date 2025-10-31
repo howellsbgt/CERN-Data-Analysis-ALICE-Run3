@@ -45,7 +45,7 @@ Identify V⁰ candidates by implementing threshold cuts on five different parame
 Compute significance:
 Scan each cut parameter to find the maximum significance.
 Retain ≥ 90 % signal and ensure data/MC agreement ≤ 2 %.
-Result: ~88 % signal retention, background reduced by ~65 %.
+Result: 86-89% signal retention, background reduced by ~70 %.
 
 3. Monte Carlo Efficiencies
 Generate simulated pp collisions using ALICE MC framework.
