@@ -14,7 +14,7 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 
 ## Key Results
 
-### Invariant Mass Distributions
+## Invariant Mass Distributions
 
 <p align="center">
   <img src="plots/Mass_Plots/fitted_plot_K0_vlines.png" alt="K0 Invariant Mass" width="45%">
@@ -25,7 +25,7 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 
 Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the data cleaning pipeline to reduce noise.
 
-### Reconstruction Efficiencies
+## Reconstruction Efficiencies
 
 <p align="center"> 
   <img src="plots/Corrected_Spectra/K0_eff_10bins.png" alt="K0 Efficiency" width="45%">
@@ -37,8 +37,8 @@ Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the data clea
 Optimised cuts achieve high signal retention with minimal background.
 
 ## Data Analysis
+### Workflow:
 1. Event Reconstruction
-
 Identify V⁰ candidates by implementing threshold cuts on five different parameters.
 
 2. Cut Optimisation
@@ -55,7 +55,7 @@ Compute efficiency = (reconstructed / generated) as function of pₜ.
 4. Spectrum Correction & Ratio
 Divide raw yields by efficiencies → corrected pₜ spectra.
 
-### Significance Plot Example: Distance of Closest Approach (K⁰<sub>S</sub>)
+## Significance Plot Example: Distance of Closest Approach (K⁰<sub>S</sub>)
 
 <p align="center">
   <img src="plots/Significance_plots/dcapostopv_K0_significance_plot.png" alt="K0 Significance vs DCA" width="60%"><br>
@@ -63,7 +63,7 @@ Divide raw yields by efficiencies → corrected pₜ spectra.
   The grey dotted line indicates the point at which significance was maximised, whilst retaining 98% of the signal.</em>
 </p>
 
-### Effect of Selection Cuts on Background Reduction
+## Effect of Selection Cuts on Background Reduction
 
 <p align="center">
   <img src="plots/Mass_Plots/K0_IMP_comparison.png" alt="K0 Before and After Cuts" width="45%">
