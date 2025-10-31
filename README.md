@@ -15,7 +15,7 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 ## 📊 Key Results
 
 ### Invariant Mass Spectrum
-![IMP_K0](plots/Mass.png)
+![IMP_K0](plots/Mass_Plots/fitted_plot_K0_vlines.png) ![IMP_Lambda](plots/Mass_Plots/fitted_plot_Lambda_vlines.png)
 
 Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the 98 % signal-retention pipeline.
 
