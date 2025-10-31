@@ -37,7 +37,7 @@ Divide raw yields by efficiencies → corrected pₜ spectra.
 ## Significance Plot Example: Distance of Closest Approach (K⁰<sub>S</sub>)
 
 <p align="center">
-  <img src="plots/Significance_plots/dcapostopv_K0_significance_plot.png" alt="K0 Significance vs DCA" width="60%"><br>
+  <img src="plots/Significance_plots/dcapostopv_K0_significance_plot.png" alt="K0 Significance vs DCA" width="50%"><br>
   <em>Significance of K⁰<sub>S</sub> reconstruction as a function of the distance of closest approach (DCA) to the primary vertex.  
   The grey dotted line indicates the point at which significance was maximised, whilst retaining 98% of the signal.</em>
 </p>
@@ -45,8 +45,8 @@ Divide raw yields by efficiencies → corrected pₜ spectra.
 ## Effect of Selection Cuts on Background Reduction
 
 <p align="center">
-  <img src="plots/Mass_Plots/K0_IMP_comparison.png" alt="K0 Before and After Cuts" width="45%">
-  <img src="plots/Mass_Plots/Lambda_IMP_comparison.png" alt="Lambda Before and After Cuts" width="45%"><br>
+  <img src="plots/Mass_Plots/K0_IMP_comparison.png" alt="K0 Before and After Cuts" width="40%">
+  <img src="plots/Mass_Plots/Lambda_IMP_comparison.png" alt="Lambda Before and After Cuts" width="40%"><br>
   <em>Left: K⁰<sub>S</sub> invariant-mass distribution before and after selection cuts.  
   Right: Λ invariant-mass distribution showing a similar reduction in background after optimal selection criteria are applied. Final selection cuts acheived ~90% signal retention, compared to <30% of the background</em>
 </p>
@@ -54,8 +54,8 @@ Divide raw yields by efficiencies → corrected pₜ spectra.
 ## Invariant Mass Distributions
 
 <p align="center">
-  <img src="plots/Mass_Plots/fitted_plot_K0_vlines.png" alt="K0 Invariant Mass" width="45%">
-  <img src="plots/Mass_Plots/fitted_plot_Lambda_vlines.png" alt="Lambda Invariant Mass" width="45%"><br>
+  <img src="plots/Mass_Plots/fitted_plot_K0_vlines.png" alt="K0 Invariant Mass" width="40%">
+  <img src="plots/Mass_Plots/fitted_plot_Lambda_vlines.png" alt="Lambda Invariant Mass" width="40%"><br>
   <em>Left: K⁰<sub>S</sub> invariant-mass fit showing the π⁺π⁻ peak.  
   Right: Λ invariant-mass fit showing the pπ⁻ peak from V⁰ reconstruction.</em>
 </p>
@@ -65,8 +65,8 @@ Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the data clea
 ## Reconstruction Efficiencies
 
 <p align="center"> 
-  <img src="plots/Corrected_Spectra/K0_eff_10bins.png" alt="K0 Efficiency" width="45%">
-  <img src="plots/Corrected_Spectra/Lambda_efficiency_10bins.png" alt="Lambda Efficiency" width="45%"><br>
+  <img src="plots/Corrected_Spectra/K0_eff_10bins.png" alt="K0 Efficiency" width="40%">
+  <img src="plots/Corrected_Spectra/Lambda_efficiency_10bins.png" alt="Lambda Efficiency" width="40%"><br>
   <em>Left: K⁰<sub>S</sub> reconstruction efficiency as a function of transverse momentum (p<sub>T</sub>).  
   Right: Λ reconstruction efficiency showing similar p<sub>T</sub> dependence with baryonic track effects.</em>
 </p>
