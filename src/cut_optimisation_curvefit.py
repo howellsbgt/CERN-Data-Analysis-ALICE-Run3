@@ -3,8 +3,16 @@
 Created on Wed Jan 17 11:27:03 2024
 
 @author: 44759
-"""
 
+cut_optimisation_curvefit.py
+----------------------------
+Performs weighted quadratic fit of significance vs. cut parameter for V0 selection optimisation.
+
+- Loads data from Excel sheet.
+- Fits using scipy.optimize.curve_fit with error weighting.
+- Plots significance with best-fit curve and fractional signal retention.
+- Outputs best-fit parameters and optimal cut value.
+"""
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -79,3 +87,4 @@ plt.show()
 # Print the best fit coefficients
 print("Best Fit Coefficients:", a_fit, b_fit, c_fit)
 print("Max sig cut:", max_cut_value)
+
