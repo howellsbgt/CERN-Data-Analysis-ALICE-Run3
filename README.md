@@ -43,3 +43,12 @@ Optimised cuts achieve high signal retention with minimal background.
   <em>Significance of K⁰<sub>S</sub> reconstruction as a function of the distance of closest approach (DCA) to the primary vertex.  
   The grey dotted line indicates the point at which significance was maximised, whilst retaining 98% of the signal.</em>
 </p>
+
+## Effect of Selection Cuts on Background Reduction
+
+<p align="center">
+  <img src="plots/Mass_Plots/K0_IMP_comparison.png" alt="K0 Before and After Cuts" width="45%">
+  <img src="plots/Mass_Plots/Lambda_IMP_comparison.png" alt="Lambda Before and After Cuts" width="45%"><br>
+  <em>Left: K⁰<sub>S</sub> invariant-mass distribution before and after selection cuts.  
+  Right: Λ invariant-mass distribution showing a similar reduction in background after optimal selection criteria are applied. Final selection cuts acheived ~90% signal retention, compared to <30% of the background</em>
+</p>
