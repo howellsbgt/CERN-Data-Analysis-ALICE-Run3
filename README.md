@@ -8,7 +8,18 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 
 **Key achievements**
 - Developed 98 % signal-retention V0 selection pipeline
-- Real-time decision rate: 10 Hz
 - Statistical significance improved via Monte-Carlo fits
 
 📄 [Read the full report (PDF)](Masters_Final_Report_BarnabyHowells.pdf)
+
+## 📊 Key Results
+
+### Invariant Mass Spectrum
+![IMP_K0](plots/Mass.png)
+
+Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the 98 % signal-retention pipeline.
+
+### Signal-Retention Efficiency
+![Efficiency Curve](plots/efficiency_curve.png)
+
+Optimised cuts achieve high signal retention with minimal background.
