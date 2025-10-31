@@ -7,7 +7,7 @@ Originally developed between Sept 2023–May 2024 as part of my master’s thesi
 Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 
 **Key achievements**
-- Developed 98 % signal-retention V0 selection pipeline
+- Developed ~90 % signal-retention V0 selection pipeline
 - Statistical significance improved via Monte-Carlo fits
 
 📄 [Read the full report (PDF)](Masters_Final_Report_BarnabyHowells.pdf)
@@ -23,7 +23,7 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
   Right: Λ invariant-mass fit showing the pπ⁻ peak from V⁰ reconstruction.</em>
 </p>
 
-Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the data cleaning pipeline to reduce noise while retaining >86% of the signal.
+Shows clear K⁰s and Λ peaks reconstructed from Run-3 data using the data cleaning pipeline to reduce noise.
 
 ## Reconstruction Efficiencies
 
