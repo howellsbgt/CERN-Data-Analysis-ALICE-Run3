@@ -39,7 +39,7 @@ Optimised cuts achieve high signal retention with minimal background.
 ## Significance Plot Example: Distance of Closest Approach (K⁰<sub>S</sub>)
 
 <p align="center">
-  <img src="plots/Significance_Plots/DCApostoPV_K0_Significance.png" alt="K0 Significance vs DCA" width="60%"><br>
+  <img src="plots/Significance_plots/dcapostopv_K0_Significance.png" alt="K0 Significance vs DCA" width="60%"><br>
   <em>Significance of K⁰<sub>S</sub> reconstruction as a function of the distance of closest approach (DCA) to the primary vertex.  
   The curve shows optimal discrimination between true V⁰ decays and background at intermediate DCA values,  
   balancing vertex resolution against combinatorial contamination.</em>
