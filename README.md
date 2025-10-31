@@ -25,7 +25,7 @@ Uploaded to GitHub in 2025 for public reference and portfolio purposes.
 <p align="center"> <img src="plots/Corrected_Spectra/Corrected_Baryon_to_Meson_ratio.png" width="55%"><br> <em>Run 3 data give a mid-pₜ ratio ≈ 0.3, lower than Run 2 (~0.6), hinting at reconstruction or calibration effects.</em> </p>
 
 ## Corrected Spectra
-<p align="center"> <img src="plots/Corrected_Spectra/Corrected_K0_Linear.png" width="45%"> <img src="plots/Corrected_Spectra/Corrected_Lambda_Linear.png" width="45%"><br> <em>Both yields decrease exponentially with pₜ — Λ spectra show anomalous low-pₜ growth requiring further study.</em> </p>
+<p align="center"> <img src="plots/Corrected_Spectra/Corrected_K0_Linear.png" width="45%"> <img src="plots/Corrected_Spectra/Corrected_Lambda_Linear.png" width="45%"><br> <em>Both yields decrease exponentially with pₜ — Λ spectra (right) showing anomalous low-pₜ growth requiring further study.</em> </p>
 
 ## Data Analysis
 ### Workflow:
